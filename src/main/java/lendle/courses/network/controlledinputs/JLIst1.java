@@ -37,5 +37,5 @@ public class JLIst1 {
         
         frame.setVisible(true);
     }
-    
+
 }
